@@ -1,0 +1,1 @@
+BURGER_URL="https://qa-stellarburgers.education-services.ru/"
